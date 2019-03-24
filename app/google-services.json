@@ -1,0 +1,283 @@
+{
+  "project_info": {
+    "project_number": "535030490548",
+    "firebase_url": "https://bholendra-singh-892ac.firebaseio.com",
+    "project_id": "bholendra-singh-892ac",
+    "storage_bucket": "bholendra-singh-892ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:80e554829655bd25",
+        "android_client_info": {
+          "package_name": "com.fortnite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-09bduh8inqsvru83rnjila65requ3n29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fortnite",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:7b43773b5c1378a8",
+        "android_client_info": {
+          "package_name": "com.fortnitedeluxe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-e7pgud9lfqbsvjfjfr7646rbn6i22hta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fortnitedeluxe",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:9ef4e8fab929d722",
+        "android_client_info": {
+          "package_name": "com.liveforgrandtheftautov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-mv73prpacb61qfar0nbkffvfpiebo82u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liveforgrandtheftautov",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:63a88b8cd41f9606",
+        "android_client_info": {
+          "package_name": "com.residentevil2theghostsurvivors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-5ree05a6b36qokmara7ehnsbolfhkedq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.residentevil2theghostsurvivors",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:463f345866b9ec6b",
+        "android_client_info": {
+          "package_name": "com.thelegendofzeldabreathofthewild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-npjv3b741vus4p4ncm71js9qnahu5fq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thelegendofzeldabreathofthewild",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-4knfp89aqcad1pmlsu4jfqpfl9m97kv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thelegendofzeldabreathofthewild",
+            "certificate_hash": "1f305093680aaf78e574524da57df84bbfec9b62"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535030490548:android:7edc0e729dcdfe80",
+        "android_client_info": {
+          "package_name": "com.uncharted2amongthieves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535030490548-v479l80s9gnc76oeaavp9kpt7kd8j5ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uncharted2amongthieves",
+            "certificate_hash": "6bcf6acd2ea538b59310a56ae08af16ea7bb9402"
+          }
+        },
+        {
+          "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaJ3V416q8ycmJZZZ3fZRdcMIC3MFSrmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535030490548-3ormfhp9udv363908ajfi13lt6pp5f7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
